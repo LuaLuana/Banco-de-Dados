@@ -1,4 +1,4 @@
-# Modelo de Entidade-Relacionamento (ER) para Sistema de Pedidos
+# Modelo de Entidade-Relacionamento (ER) Banco-de-Dados-E-COMMERCE
 
 Visão Geral
 
