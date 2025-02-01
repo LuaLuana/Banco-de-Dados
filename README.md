@@ -1,4 +1,4 @@
-# Modelo de Entidade-Relacionamento (ER) Banco-de-Dados-E-COMMERCE e Oficna Mecanica
+# Modelo de Entidade-Relacionamento (ER) Banco-de-Dados-E-COMMERCE e Oficina Mecânica
 
 Visão Geral
 
